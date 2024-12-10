@@ -9,7 +9,7 @@ Este repositorio contiene el código y recursos utilizados para analizar un data
 
 
 Daniel Tarazona Sanchez - 2210097,
-Jhoan Sebastian Garcia Reyes - 2202054,
+Jhoan Sebastian Garcia Reyes - 2202045,
 Juan Tabares - 2191712
 
 El objetivo es identificar las preguntas y características más relevantes para predecir estos estados mediante técnicas de aprendizaje automático y reducción dimensional.
