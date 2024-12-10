@@ -5,8 +5,8 @@ Este repositorio contiene el código y recursos utilizados para analizar un data
 
 ![Banner_Salud_Mental](https://github.com/user-attachments/assets/41d02c8f-2909-4c68-aeec-bcef434a3de3)
 
-Daniel Tarazona Sanchez - 2210097
-Jhoan Sebastian Garcia Reyes - 2202054
+Daniel Tarazona Sanchez - 2210097,
+Jhoan Sebastian Garcia Reyes - 2202054,
 Juan Tabares - 2191712
 
 El objetivo es identificar las preguntas y características más relevantes para predecir estos estados mediante técnicas de aprendizaje automático y reducción dimensional.
