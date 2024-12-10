@@ -3,7 +3,9 @@ Identificación de Indicadores de Ansiedad, Estrés y Depresión mediante Aprend
 Este repositorio contiene el código y recursos utilizados para analizar un dataset relacionado con indicadores de ansiedad, estrés y depresión. 
 
 
-![Banner_Salud_Mental](https://github.com/user-attachments/assets/41d02c8f-2909-4c68-aeec-bcef434a3de3)
+![Banner_Salud_Mental](https://github.com/user-attachments/assets/6daecad5-7df2-46ef-babe-97328c08b6c1)
+
+
 
 Daniel Tarazona Sanchez - 2210097,
 Jhoan Sebastian Garcia Reyes - 2202054,
