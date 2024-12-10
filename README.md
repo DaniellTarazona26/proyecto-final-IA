@@ -19,4 +19,5 @@ Modelos:
 
 https://colab.research.google.com/drive/1VqggTZjyrDe9ciMBDqftak9UhyNsmyoP?usp=sharing
 https://github.com/DaniellTarazona26/proyecto-final-IA
+
 https://youtu.be/a1UOcUpTfVg
