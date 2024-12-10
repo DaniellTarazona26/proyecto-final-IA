@@ -1,4 +1,4 @@
-# Proyecto-final-IA/Asistende Personal de Salud Mental
+# Proyecto-final-IA/Asistente Personal de Salud Mental
 Identificación de Indicadores de Ansiedad, Estrés y Depresión mediante Aprendizaje Automático
 Este repositorio contiene el código y recursos utilizados para analizar un dataset relacionado con indicadores de ansiedad, estrés y depresión. 
 
