@@ -22,3 +22,5 @@ https://colab.research.google.com/drive/1VqggTZjyrDe9ciMBDqftak9UhyNsmyoP?usp=sh
 https://github.com/DaniellTarazona26/proyecto-final-IA
 
 https://youtu.be/a1UOcUpTfVg
+
+https://www.canva.com/design/DAGXvXegLg0/VlcQy5V-gAaLSDEsaGK7gw/edit?utm_content=DAGXvXegLg0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
